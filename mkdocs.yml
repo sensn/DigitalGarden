@@ -7,6 +7,9 @@ theme:
     logo: assets/meta/logo.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
+    icon:
+       previous: fontawesome/solid/angle-left
+       next: fontawesome/solid/angle-right
     font:
         text: Ubuntu
         code: Ubuntu Mono
