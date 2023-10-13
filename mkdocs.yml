@@ -3,9 +3,9 @@ site_description: A cool description of your site
 site_url: http://sensn.github.io/DigitalGarden # Change this to your site URL
 
 theme:
-  icon:
-    previous: fontawesome/solid/angle-left
-    next: fontawesome/solid/angle-right
+ # icon:
+  #  previous: fontawesome/solid/angle-left
+ #   next: fontawesome/solid/angle-right
     name: 'material'
     logo: assets/meta/logo.png
     favicon: assets/meta/favicons.png
