@@ -73,8 +73,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.blocks
-  - pymdownx.blocks.tab
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
