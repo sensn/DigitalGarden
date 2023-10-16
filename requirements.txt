@@ -17,4 +17,4 @@ cairosvg==2.7.1
 pillow==10.1.0
 mkdocs-glightbox==0.3.4
 mkdocs-minify-plugin==0.7.1
-pymdown-extensions
+pymdown-extensions==10.3
