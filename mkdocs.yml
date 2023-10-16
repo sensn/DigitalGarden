@@ -73,6 +73,7 @@ markdown_extensions:
       permalink: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.blocks
   - pymdownx.blocks.tab
   - pymdownx.superfences:
       custom_fences:
@@ -81,7 +82,6 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format    
           
 plugins:
-  - pymdownx.blocks
   - search
   - meta-descriptions
   - git-revision-date-localized:
