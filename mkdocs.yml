@@ -77,10 +77,9 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.blocks
-  - pymdownx.blocks.tab     
+          format: !!python/name:pymdownx.superfences.fence_code_format     
 plugins:
+  - pymdownx.blocks.tab
   - search
   - meta-descriptions
   - git-revision-date-localized:
